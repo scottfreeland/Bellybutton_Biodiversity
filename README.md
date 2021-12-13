@@ -26,4 +26,5 @@ Finally, I included a gauge that appears on the webpage as well, depicting the w
 
 ![Gauge](Resources/Wash_Freq_Gauge.png)
 
+## Summary
 A recurring pattern we can induce from this visual data is that micro fauna flourish more so in belly buttons washed less frequently. They flourish in terms of both variety of bacterial strains as well as sheer amount of bacteria present. Those with more bacteria present may offer a greater well of potential for finding that *perfect* strain of bacteria to synthesize proteins that produces a flavor profile closest to genuine beef.
