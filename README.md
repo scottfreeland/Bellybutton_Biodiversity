@@ -8,7 +8,7 @@ The human body is a source of thousands of types of bacteria. Different parts of
 So, to test this hypothesis, Improbable Beef labs have gathered samples from individuals all across the country to document various bacterial species that colonize our belly buttons.
 
 ## Resources
-- Data sources: sample.json
+- Data sources: samples.json
 - Software: Visual Studio Code 1.60.2, JavaScript 1.7, D3.js, HTML 5, CSS 3, Bootstrap
 
 ## Results
@@ -18,7 +18,7 @@ Below, you can see a snapshot of the page. The research participant is able to f
 
 ![ID Dropdown and Bar Chart](Resources/Top_10_Bacterial_Presences.png)
 
-Additionally, my webpage provides a bubble graph which depicts the variety and relative proportions of bacterial species' presences in one's belly button. The larger the bubble, the greater the amount of that bacterial species in the sample. Additionally, when a use hovers over a bubble, they are presented with the name of the bacterial strain, the OTU ID of the strain, and the amount of bacteria of that strain present in the sample. The colorscale of the various bubble points helps the viewer visualize the sheer amount of variety in micro fauna from their belly button. 
+Additionally, my webpage provides a bubble graph which depicts the variety and relative proportions of bacterial species' presences in one's belly button. The larger the bubble, the greater the amount of that bacterial species in the sample. Additionally, when a user hovers over a bubble, they are presented with the name of the bacterial strain, the OTU ID of the strain, and the amount of bacteria of that strain present in the sample. The colorscale of the various bubble points helps the viewer visualize the sheer amount of variety in micro fauna from their belly button. 
 
 ![Bubble Chart](Resources/Bacteria_Cultures_Per_Sample.png)
 
